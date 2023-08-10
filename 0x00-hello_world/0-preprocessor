@@ -1,2 +1,2 @@
-gcc  -E -o c
+#!/bin/bash
 gcc  -E -o c
