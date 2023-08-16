@@ -1,8 +1,11 @@
 #include "main.h"
-/*
- * int _isalpha(int c) - checks for alphabets
- * @c: is a function parameter
- * Return: 1 if c is a letter (lowercase or uppercase), 0 otherwise
+
+/**
+ * _isalpha - Checks for alphabetic order
+ *
+ * @c: alpabet to check for
+ *
+ * Return: 1 if c is a letter, 0 otherwise
  */
 
 int _isalpha(int c)
