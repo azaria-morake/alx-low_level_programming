@@ -1,4 +1,4 @@
-File Edit Options Buffers Tools C Help                                                                                                                                
+#include <main.h>                  
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
