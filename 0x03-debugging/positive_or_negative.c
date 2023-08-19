@@ -6,19 +6,19 @@
  * Return: always 0 (success)                                                                                                                                         
  */
 
-void postitive_or_negative(int n)
+void postitive_or_negative(int i)
 {
-if (n > 0)
+if (i > 0)
 {
-printf("%d is positive\n", n);
+printf("%d is positive\n", i);
 }
-else if (n == 0)
+else if
 {
-printf("%d is zero\n", n);
+printf("%d is zero\n", i);
 }
 else
 {
-printf("%d is negative\n", n);
+printf("%d is negative\n", i);
 }
-return (0);
+return(0);
 }
