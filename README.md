@@ -1,1 +1,1 @@
-This is a README.md
+This is a new directory
