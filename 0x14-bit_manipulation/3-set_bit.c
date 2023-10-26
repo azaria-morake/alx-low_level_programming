@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * set_bit - Modifies a bit at a specified index to be set to 1 in a given number.
+ * set_bit - Modifies a bit at a specified 
+ * index to be set to 1 in a given number.
  * @n: A pointer to the number to be manipulated.
  * @index: The index of the bit to set to 1.
  *
