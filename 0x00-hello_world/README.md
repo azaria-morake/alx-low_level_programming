@@ -3,7 +3,7 @@
 **0x00. C - Hello, World**
 
 ## Author
-Name: *Azaria Morake*
+Name: Azaria Morake
 
 ## Project Requirements
 
